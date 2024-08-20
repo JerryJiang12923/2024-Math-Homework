@@ -1,0 +1,10 @@
+Celestial_Peak: Total Energy = 3995.4, Energy per Minute = 14.53
+Flying_Rock_Loop: Total Energy = 1623.0, Energy per Minute = 19.32
+Heavenly_Peak_and_Lotus_Pavillion: Total Energy = 2403.1, Energy per Minute = 16.24
+Huangshan_Trail: Total Energy = 7560.1, Energy per Minute = 16.40
+Huangshan_West_Path_to_Greeting_Pine: Total Energy = 2555.9, Energy per Minute = 13.52
+Huangshan_West_Sea_Gate_to_West_Scenic_Area: Total Energy = 2026.4, Energy per Minute = 12.83
+Purple_Cloud_Peak: Total Energy = 1358.5, Energy per Minute = 20.58
+Shisun_Gang_: Total Energy = 558.2, Energy per Minute = 18.61
+West_Sea_Canyon_Trail: Total Energy = 1061.9, Energy per Minute = 15.62
+Wu_Shan_Yellow_Mountains: Total Energy = 4669.6, Energy per Minute = 14.37
